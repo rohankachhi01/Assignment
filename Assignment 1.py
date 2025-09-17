@@ -20,6 +20,3 @@ print(sum,sub,mul,div)
 a = (input("enter the first name :"))
 b = (input("enter the last name :"))
 print("thank you enter you name Mr/Ms",a,b,"welcome you")
-
-git config --global user.name "rohankachhi01"
-git config --global user.email "rohankachhi88@gmail.con"
